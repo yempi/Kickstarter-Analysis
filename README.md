@@ -35,11 +35,11 @@ For this challenge it was pretty easy to complete after all the practice from th
   2. The canceled dates are pretty consistent with a slight peak around October, so it can be a factor to consider.
 
 > What can you conclude about the Outcomes based on Goals?
-  If you set a low amount (< $1,000) as your goal the probability of success is greater than a high amount from different donations     being >45k a risk amount to set as your goal.
+If you set a low amount (< $1,000) as your goal the probability of success is greater than a high amount from different donations     being >45k a risk amount to set as your goal.
 
 > What are some limitations of this dataset?
-  There are a lot of other factors to take into account in order to make accurate conclusions for a client, also, it would be helpful to get more lines into the dataset and focus on more on each country.
+There are a lot of other factors to take into account in order to make accurate conclusions for a client, also, it would be helpful to get more lines into the dataset and focus on more on each country.
 
 > What are some other possible tables and/or graphs that we could create?
-  How many backers a kickstarter has and the outcome.
+How many backers a kickstarter has and the outcome.
   
