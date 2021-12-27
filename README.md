@@ -20,7 +20,10 @@ For this analysis we visualized the hard numbers of the successful/failed/cancel
 
 For the **successful** plays the highest rate is found under the 1,000, with 76% of them succeeding around this goal and noting similar increases around the 30k-50k mark with 67% of the plays generating positive results as well.
 
-In the **failed** numbers, we can see that with a notable 100%, all plays with a goal between 45k-50k failed. Just behind with 88% and 80% with the goals set greater than 50k and between 25k-30k respectively 
+In the **failed** numbers, we can see that with a notable 100%, all plays with a goal between 45k-50k failed. Just behind with 88% and 80% with the goals set greater than 50k and between 25k-30k respectively. This being important values to consider at the time of setting a goal for your play kickstarter.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/83614893/147437071-a7647f94-74b3-4ce9-85e6-3abc354428d7.png)
+>Image 2. Outcomes vs Goals Graph
 
 ### Challenges and Difficulties Encountered
 
